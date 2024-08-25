@@ -10,4 +10,4 @@
 
 
 ### UI App:
-Please visit this <to be updated> repo to setup the UI app
+Please visit [this](https://github.com/anshu-gautam/sms-ui) repo to setup the UI app
